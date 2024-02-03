@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-Please create a .env file and copy paste the line:
+Please create a .env file in the root folder and copy paste the line:
 REACT_APP_FOREX_API_KEY={your API-KEY} # please do not change the name of the variable
 
 In the project directory, you can run:
